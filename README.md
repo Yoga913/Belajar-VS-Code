@@ -1,6 +1,6 @@
 # Pelajari-VS-Kode
 
-![Pelajari Gambar Sampul Kode VS](./images/cover.png)
+![Pelajari Gambar Sampul Kode VS](./cover.png)
 
 ***Buka [Pelajari Kode VS](https://www.learnvscode.com) untuk mempelajari semua yang perlu Anda ketahui tentang editor paling populer dalam Pengembangan Web***
 
