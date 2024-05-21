@@ -2,7 +2,7 @@
 
 Dalam bagian ini, kita akan menjelajahi tata letak VS Code. Kita akan fokus pada pintasan untuk bekerja dengan berkas, manipulasi teks, dan mengoptimalkan tata letak pengembangan Anda.
 
-![Antarmuka Pengguna VS Code](../interface.png)
+![Antarmuka Pengguna VS Code](./interface.png)
 
 1. Antarmuka
     1. Yang Akan Dibahas
