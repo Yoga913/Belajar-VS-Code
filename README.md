@@ -17,50 +17,50 @@ Hanya dalam beberapa tahun, Visual Studio Code telah menjadi editor paling popul
 
 ***================== ====================***
 
-## 1. [Memulai](./sections/GettingStarted.md)
+## 1. [Memulai](./GettingStarted.md)
 
 Di bagian ini, kita akan membahas sumber daya yang tersedia, apa dan mengapa di balik VS Code, serta cara mengunduh dan menginstal.
 
-[Pelajari lebih lanjut](./sections/LayoutsAndShortcuts.md)
+[Pelajari lebih lanjut](./LayoutsAndShortcuts.md)
 
-## 2. [Tata Letak dan Pintasan](./sections/LayoutsAndShortcuts.md)
+## 2. [Tata Letak dan Pintasan](./LayoutsAndShortcuts.md)
 
 Di bagian ini, kita akan membuka VS Code terlebih dahulu dan menjelajahi tata letaknya. Kami akan menjelajahi berbagai pintasan untuk menyesuaikan tata letak Anda, bekerja dengan file, memanipulasi teks, dan banyak lagi.
 
-[Pelajari lebih lanjut](./sections/LayoutsAndShortcuts.md)
+[Pelajari lebih lanjut](./LayoutsAndShortcuts.md)
 
-## 3. [Kustomisasi](./sections/Customization.md)
+## 3. [Kustomisasi](./Customization.md)
 
 Di bagian ini, kita akan mempelajari cara menyesuaikan editor Anda melalui peta kunci/pintasan, pengaturan, ekstensi, dan tema!
 
-[Pelajari lebih lanjut](./sections/Customization.md)
+[Pelajari lebih lanjut](./Customization.md)
 
-## 4. [Menulis dan Memformat Kode](./sections/WritingAndFormattingCode.md)
+## 4. [Menulis dan Memformat Kode](./WritingAndFormattingCode.md)
 
 Di bagian ini, kita mempelajari cara membuat cuplikan, bekerja dengan dokumen Markdown, mengatur kode, memformat kode, dan kode lint.
 
-[Pelajari lebih lanjut](./sections/WritingAndFormattingCode.md)
+[Pelajari lebih lanjut](./WritingAndFormattingCode.md)
 
-## 6. [Terminal Terintegrasi](./sections/IntegratedTerminal.md)
+## 6. [Terminal Terintegrasi](./IntegratedTerminal.md)
 
 Di bagian ini, kita akan mempelajari cara menggunakan dan menyesuaikan terminal terintegrasi.
 
-[Pelajari lebih lanjut](./sections/IntegratedTerminal.md)
+[Pelajari lebih lanjut](./IntegratedTerminal.md)
 
-## 7. [Bekerja Dengan Git](./sections/WorkingWithGit.md)
+## 7. [Bekerja Dengan Git](./WorkingWithGit.md)
 
 Di bagian ini, kita akan mempelajari cara memanfaatkan alat bawaan untuk Git serta ekstensi yang berguna untuk bekerja dengan Git.
 
-[Pelajari lebih lanjut](./sections/WorkingWithGit.md)
+[Pelajari lebih lanjut](./WorkingWithGit.md)
 
-## 8. [Debugging](./sections/Debugging.md)
+## 8. [Debugging](./Debugging.md)
 
 Di bagian ini, kita akan mempelajari cara men-debug JavaScript front-end dan JavaScript back-end serta aplikasi Angular, React, dan Vue.
 
-[Pelajari lebih lanjut](./sections/Debugging.md)
+[Pelajari lebih lanjut](./Debugging.md)
 
-## 9. [Ekstra](./sections/Extras.md)
+## 9. [Ekstra](./Extras.md)
 
 Di bagian ini, kita akan belajar tentang tambahan lain-lain. fitur kode VS.
 
-[Pelajari lebih lanjut](./sections/Extras.md)
+[Pelajari lebih lanjut](./Extras.md)
